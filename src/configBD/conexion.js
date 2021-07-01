@@ -1,8 +1,6 @@
 //oracle PL/SQL
 
 const oracledb = require("oracledb");
-var c = require('colors');
-console.log(c.blue('Saludos de Marte'));
 const mypw = "control1";
 
 async function run() {
